@@ -55,4 +55,5 @@ Contributions are what make the open-source community such an amazing place to l
 - **Community Features**: Implement social sharing, challenges, and leaderboards to encourage user engagement.
 
 ## License
+
 Distributed under the MIT License. See [`LICENSE`](https://github.com/siddhant-vij/Health-Fitness-Tracker/blob/main/LICENSE) for more information.
